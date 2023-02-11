@@ -1,1 +1,1 @@
-# ⚠️ Deze repository is overgezet en niet langer meer in gebruik, ga naar [https://github.com/casperdennijs/web-app-from-scratch-2223/tree/main/visitekaartje](https://github.com/casperdennijs/web-app-from-scratch-2223/tree/main/visitekaartje) voor de nieuwe! ⚠️
+⚠️ Deze repository is overgezet en niet langer meer in gebruik, ga naar [https://github.com/casperdennijs/web-app-from-scratch-2223/tree/main/visitekaartje](https://github.com/casperdennijs/web-app-from-scratch-2223/tree/main/visitekaartje) voor de nieuwe! ⚠️
